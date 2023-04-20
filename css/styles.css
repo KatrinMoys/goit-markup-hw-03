@@ -36,8 +36,6 @@ body{
 }  
 .link-logo {
     color:var(--web-color);
-    font-family: 'Raleway',sans-serif;
-    font-style: normal;
     font-weight: 800;
     font-size: 18px;
     line-height: 1.17;
@@ -204,32 +202,20 @@ body{
 .team-title,
 .projects-title {
     height: 24px;
-    font-family: 'Roboto';
-    font-style: normal;
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2E2F42;
-    flex: none;
-    order: 0;
-    flex-grow: 0;
 }
 .feature-text,
 .team-text,
 .projects-text{
-    font-family: 'Roboto' sans-serif;
-    font-style: normal;
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
-    margin-top: 8px;
-/* Inside auto layout */
-    flex: none;
-    order: 1;
-    flex-grow: 0;
 }
 .feature-list {
     margin-top: 0;
@@ -239,9 +225,6 @@ body{
     gap: 24px;
 }
 .section-title{
-    font-family: 'Roboto' sans-serif;
-    font-style: normal;
-    font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
     margin-top: 0;
@@ -342,9 +325,6 @@ body{
     padding: 32px 16px;
     border: 1px solid #e7e9fc; 
     border-top: none; 
- }
- .projects-text{
-    margin-top: 8px;
  }
  .projects-item {
     

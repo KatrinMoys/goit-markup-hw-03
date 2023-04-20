@@ -69,6 +69,9 @@ body{
 .studio {
    color:#2E2F42; 
 }
+.navigation-item{
+    padding: 24px 0;
+}
 .link {
     text-decoration: none;
 }
@@ -79,7 +82,8 @@ body{
     font-weight: 500;
     font-size: 16px;
     line-height: 24px;
-    letter-spacing: 0.02em;  
+    letter-spacing: 0.02em; 
+    padding: 24px 0;
 }
 .nav-link:hover,
 .nav-link:focus {

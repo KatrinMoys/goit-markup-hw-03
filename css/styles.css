@@ -330,12 +330,14 @@ body{
 
 
  /* Portfolio */
+ .portfolio-main{
+    padding: 96px 0 120px;
+ }
  .filters-list{
     display: flex;
     gap: 24px;
     align-items: center;
     justify-content: center;
-    padding-top: 96px;
  }
  .projects-list{
     display: flex;
